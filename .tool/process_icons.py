@@ -188,3 +188,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+# python3 process_icons.py

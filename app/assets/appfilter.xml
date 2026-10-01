@@ -22735,4 +22735,16 @@
   <item component="ComponentInfo{com.byzft.nearme.gamecenter/com.yaoji.GameActivity}" drawable="bu_yu_zha_fan_tian" name="捕鱼炸翻天"/>
   <item component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}" drawable="sou_gou_shu_ru_fa" name="搜狗输入法"/>
   <item component="ComponentInfo{com.xs.fm.lite/com.dragon.read.pages.splash.SplashActivity}" drawable="fan_qie_yin_le" name="番茄音乐（原畅听音乐）"/>
+  <item component="ComponentInfo{org.chromium.webapk.a8ce065729773ad7c_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="tailscale" name="Tailscale"/>
+  <item component="ComponentInfo{com.poweramp.v3.aurora/com.poweramp.v3.aurora.SkinInfoActivity}" drawable="aurora" name="Aurora"/>
+  <item component="ComponentInfo{com.spinmaster.gabbysdollhouse/com.unity3d.player.UnityPlayerActivity}" drawable="gabby_s" name="Gabby's"/>
+  <item component="ComponentInfo{com.poweramp.v3.melodi/com.poweramp.v3.melodi.SkinInfoActivity}" drawable="melodi" name="Melodi"/>
+  <item component="ComponentInfo{com.oe.photocollage/com.oe.photocollage.SplashActivity}" drawable="netflix_pro" name="Netflix Pro"/>
+  <item component="ComponentInfo{com.bilibili.sirius/com.bangdream.sirius.MainActivity}" drawable="our_notes" name="Our Notes"/>
+  <item component="ComponentInfo{bludocs.iconpack.poppin/bludocs.iconpack.poppin.MainActivity}" drawable="poppin" name="Poppin"/>
+  <item component="ComponentInfo{io.github.abhishekabhi789.lyricsforpoweramp/io.github.abhishekabhi789.lyricsforpoweramp.activities.MainActivity}" drawable="poweramp" name="Poweramp 歌词插件"/>
+  <item component="ComponentInfo{com.tencent.qqmusicpad/com.tencent.qqmusiccar.app.activity.AppStarterActivity}" drawable="qq__hd" name="QQ音乐HD"/>
+  <item component="ComponentInfo{org.smarttube.stable/com.liskovsoft.smartyoutubetv2.tv.ui.main.SplashActivity}" drawable="smarttube" name="SmartTube"/>
+  <item component="ComponentInfo{com.shizi.tool.p3/app.video.guoguo.SplashActivity}" drawable="unnamed_icon" name="动漫共和国"/>
+  <item component="ComponentInfo{com.tile.rotation2/com.tile.rotation2.MainActivity}" drawable="unnamed_icon_1" name="方向控制"/>
 </resources>

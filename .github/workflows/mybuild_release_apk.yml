@@ -25,7 +25,6 @@ jobs:
           cache-encryption-key: Da25KUVSE5jbGds2zXmfXw==
       
       - name: Write sign info
-        if: github.event.repository.fork == false
         run: |
           if [ ! -z "${{ secrets.KEYSTORE }}" ]; then
             echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties

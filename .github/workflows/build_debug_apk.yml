@@ -2,10 +2,10 @@ name: Build debug APK
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - develop
-  pull_request:
+  #push:
+  #  branches:
+  #    - develop
+  #pull_request:
 
 jobs:
   check-paths:

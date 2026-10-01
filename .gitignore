@@ -19,3 +19,6 @@ __pycache__/
 .idea/
 .vscode/
 .vsc/
+
+.tool/ai_output.json
+

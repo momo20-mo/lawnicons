@@ -254,7 +254,7 @@ fun LawniconsTheme(
 
         darkTheme -> darkScheme
 
-        else -> lightScheme
+        else -> darkScheme
     }
 
     MaterialExpressiveTheme(
